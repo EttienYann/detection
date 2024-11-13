@@ -37,4 +37,4 @@ def app():
         # appel la fonction de dectection
         detect_faces()
 if __name__ == "__main__":
-    app()
+    app() 
